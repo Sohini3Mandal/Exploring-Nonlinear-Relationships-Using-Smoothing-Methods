@@ -1,9 +1,13 @@
 # Exploring Nonlinear Relationships Using Smoothing Methods
 
+
 **Course:** Advanced Regression Techniques (MDTS4313)
+
 **Programme:** M.Sc. Data Science (Semester III)
 **Author:** Sohini Mandal
+
 **Roll No:** 444
+
 **Institution:** St. Xavier’s College (Autonomous), Kolkata
 
 ---
