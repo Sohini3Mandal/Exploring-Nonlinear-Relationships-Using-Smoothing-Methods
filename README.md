@@ -18,9 +18,11 @@
 ```
 📁 Exploring-Nonlinear-Relationships-Smoothing
 │
-├── xploring Nonlinear Relationships Using Smoothing Methods (Notebook).ipynb
+├── Exploring Nonlinear Relationships Using Smoothing Methods (Notebook).ipynb
 ├── Exploring Nonlinear Relationships Using Smoothing Methods (Report).pdf
+├── Fishers.csv
 └── README.md
+
 ```
 
 ---
